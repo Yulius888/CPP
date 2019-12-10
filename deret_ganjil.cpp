@@ -7,7 +7,7 @@ int main(){
 	
 	int ganjil, n;
 	
-	cout<<"Masukkan nilai n: ";cin>>n;
+	cout<<"Masukkan angka : ";cin>>n;
 	
 	for (ganjil=1; ganjil<=n; ganjil++)
 	
